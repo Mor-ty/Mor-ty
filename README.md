@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mor-ty&label=Profile%20views&color=0e75b6&style=flat" alt="mor-ty" /> </p>
 
-- 🔭 I’m currently working on **AWS Cloud computing and MERN stack development**
-- 🌱I am currently learning NodeJs, Express and MongoDB as part of Backend development**
+- 🔭 I’m currently working on **AWS Cloud computing and MERN stack development
+- 🌱I am currently learning NodeJs, Express and MongoDB as part of Backend development
 - 💬AWS Cloud services, DevOps and metal music
-
 - 📫 How to reach me **rahul.2002.dey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
